@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reina-dev-230853-authRole",
+      "UnauthRoleArn": "arn:aws:iam::930990375004:role/amplify-reina-dev-230853-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::930990375004:role/amplify-reina-dev-230853-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-reina-dev-230853-deployment",
+      "UnauthRoleName": "amplify-reina-dev-230853-unauthRole",
+      "StackName": "amplify-reina-dev-230853",
+      "StackId": "arn:aws:cloudformation:us-east-1:930990375004:stack/amplify-reina-dev-230853/da317ee0-2d04-11ee-9aea-0acc93b2964d",
+      "AmplifyAppId": "d9rofqz1umtkg"
+    },
+    "categories": {
+      "auth": {
+        "reina2bf196a8": {}
+      }
+    }
+  }
+}
